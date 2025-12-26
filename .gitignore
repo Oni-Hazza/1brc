@@ -43,6 +43,7 @@ nbactions.xml
 out/
 
 # 1BRC
+/data/measurements.txt
 /measurements*.txt
 /*.out
 out_expected.txt
